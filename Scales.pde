@@ -1,7 +1,6 @@
 void setup(){
   size(600, 600);
   background(195, 200, 240);
-  noLoop();
   frameRate(1);
 }
 
